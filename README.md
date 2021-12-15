@@ -3,4 +3,4 @@
 1. Clicking on a button that contains a number will display the entry within the TextView
 2. Pressing `C` will reset the value in TextView
 3. Pressing `÷`, `x`, `-` or `+` will display the sign inside the TextView
-4. Clicking `1` will display the sign inside the TextView and will calculate the two values entered earlier.
+4. Clicking `=` will display the sign inside the TextView and will calculate the two values entered earlier.
