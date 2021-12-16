@@ -1,4 +1,4 @@
-# Calculator
+# Calculator 🧮
 **A simple application that displays a calculator that contains 16 `Buttons` and a `TextView` box.**
 1. Clicking on a button that contains a number will display the entry within the TextView
 2. Pressing `C` will reset the value in TextView
